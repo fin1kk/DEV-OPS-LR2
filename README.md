@@ -14,3 +14,5 @@
  - cron — для автоматического выполнения скрипта
 ## Пример результата
 <img width="796" height="316" alt="image" src="https://github.com/user-attachments/assets/4bba099f-720b-494a-b65a-49d0eb817c1a" />
+
+Выполнил Орлов Артём
