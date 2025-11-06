@@ -13,6 +13,7 @@
  - nginx — для отображения результата
  - cron — для автоматического выполнения скрипта
 ## Пример результата
-<img width="796" height="316" alt="image" src="https://github.com/user-attachments/assets/4bba099f-720b-494a-b65a-49d0eb817c1a" />
+<img width="813" height="603" alt="image" src="https://github.com/user-attachments/assets/e85df9e5-f5a5-4eb0-9d0e-c2e801c8e38e" />
+<img width="1061" height="806" alt="image" src="https://github.com/user-attachments/assets/5ab8b62a-26a4-43cd-9d99-39f399970142" />
 
 Выполнил Орлов Артём
